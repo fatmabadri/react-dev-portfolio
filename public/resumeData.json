@@ -1,0 +1,24 @@
+{
+    "main": {
+      "name": "Fatma Badri",
+      "occupation": "Front-End Developer",
+      "website": "http://www.fatmabadri.github.io",
+      "social": [
+        {
+            "name": "github",
+            "url": "http://github.com/fatmabadri",
+            "className": "fa fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/fatmabadri/",
+          "className": "fa fa-linkedin"
+        },
+        {
+            "name": "twitter",
+            "url": "http://twitter.com",
+            "className": "fa fa-twitter"
+        }  
+      ]
+    }
+}
