@@ -5,8 +5,6 @@
       "image": "profilepic.jpg",
       "bio": "I am Fatma, a front-end web developer and a pursuing a career as a software develepor based in Vancouver, BC. I have currently enrolled Software Systems Developer (Web Programmer option) at British Columbia Institute of Technology (BCIT). After attending BCIT's big info session in 2018 and doing extensive research in the comptuting programs, I have decided to deepen my knowledge of web technologies and advance my learning experience in the Software Developer Program. It is an intensive, hands-on program that allows students to gain the foundations of ever evolving technologies and web and mobile applications.",
       "contactmessage": "",
-      "email": "",
-      "phone": "",
       "website": "http://www.fatmabadri.github.io",
       "social": [
         {
@@ -24,6 +22,109 @@
             "url": "http://twitter.com",
             "className": "fa fa-twitter"
         }  
+      ]
+    },
+
+    "resume":{
+      "skillmessage":" ",
+      "devtoolmessage":" ",
+      "education":[
+        {
+          "school":"BCIT-British Columbia Institute of technology",
+          "program":"Software Systems Developer, Web Programmer Option",
+          "description":""
+        },
+        {
+          "school":"SAIT-Souther Alberta Institute of Technology",
+          "program":"Web Developer",
+          "description":""
+        }
+      ],
+   
+      "devtools":[
+        {
+          "name":"HTML",
+          "image":"html.jpg"
+        },
+        {
+          "name":"CSS",
+          "image":"css.jpg"
+        },
+        {
+          "name":"Wordpress",
+          "image":"wordpress.png"
+        },
+        {
+          "name":"Bootstrap 4",
+          "image":"bootstrap.jpg"
+        },
+        {
+          "name":"PHP",
+          "image":"php.jpg"
+        },
+        {
+          "name":"MySql",
+          "image":"Mysql.png"
+        },
+        {
+          "name":"VS Code",
+          "image":"vscode.jpg"
+        },
+        {
+          "name":"ReactJs",
+          "image":"react.jpg"
+        },
+        {
+          "name":"Angular",
+          "image":"angular.jpg"
+        },
+        {
+          "name":"NodeJs",
+          "image":"node.jpg"
+        },
+        {
+          "name":"MongoDB",
+          "image":"mongodb.png"
+        },
+        {
+          "name":"GIT",
+          "image":"git.jpg"
+        },
+        {
+          "name":"Heroku",
+          "image":"heroku.jpg"
+        }
+      ]
+    },
+
+    "portfolio":{
+      "projectmessage": "",
+      "projects": [
+        {
+          "title":"React Movie App",
+          "category":"React Project",
+          "image":"react-movie-app.jpg"
+        },
+        {
+          "title":"WalkaBooks",
+          "category":"Front-End HTML Project",
+          "image":"walkabooks.jpg",
+          "url":""
+        },
+        {
+          "title":"E-commerce Project",
+          "category":"Angular Project",
+          "image":"coming-soon.jpg",
+          "url":""
+        }
+      ]
+    },
+
+    "objective":{
+      "objective":[
+        {
+          "text":""
+        }
       ]
     }
 }
