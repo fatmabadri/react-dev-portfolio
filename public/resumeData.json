@@ -59,20 +59,24 @@
           "image":"bootstrap.jpg"
         },
         {
-          "name":"MySql",
-          "image":"Mysql.png"
-        },
-        {
           "name":"VS Code",
           "image":"vscode.jpg"
         },
         {
-          "name":"ReactJs",
-          "image":"react.jpg"
+          "name":"PHP",
+          "image":"php.png"
+        },
+        {
+          "name":"MySql",
+          "image":"Mysql.png"
         },
         {
           "name":"Angular",
           "image":"angular.jpg"
+        },
+        {
+          "name":"ReactJs",
+          "image":"react.jpg"
         },
         {
           "name":"NodeJs",
@@ -85,6 +89,10 @@
         {
           "name":"GIT",
           "image":"git.jpg"
+        },
+        {
+          "name":"Netlify",
+          "image":"netlify.png"
         },
         {
           "name":"Heroku",
