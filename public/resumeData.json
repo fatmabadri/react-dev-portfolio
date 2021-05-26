@@ -108,25 +108,25 @@
         {
           "title":"Checkmarks",
           "category":"Full Stack Project",
-          "image":"checkmarks.jpg",
-          "url":"https://wishlist.netlify.app/"
+          "image":"checkmarks.png",
+          "url":"https://checkmarks.netlify.app/"
         },
         {
           "title":"WishList",
           "category":"Full Stack Project",
-          "image":"wishlist.jpg",
+          "image":"wishbucket.png",
           "url":"https://wishlist.netlify.app/"
         },
         {
           "title":"React Movie App",
-          "category":"React Project",
+          "category":"Front End Databse API Project",
           "image":"react-movie-app.jpg",
           "url":"https://ssdreactmovie.netlify.app/"
         },
         {
           "title":"WalkaBooks",
           "category":"Front End Project",
-          "image":"coming-soon.jpg",
+          "image":"walkabooks.jpg",
           "url":""
         },
         {
