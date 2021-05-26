@@ -3,7 +3,7 @@
       "name": "Fatma Badri",
       "occupation": "Front-End Developer",
       "image": "profilepic.jpg",
-      "bio": "I am Fatma, a front-end web developer and a pursuing a career as a software develepor based in Vancouver, BC. I have currently enrolled at British Columbia Institute of Technology (BCIT).",
+      "bio": "I am Fatma, a front-end web developer and pursuing a career as a software develepor based in Vancouver, BC. I have currently enrolled at British Columbia Institute of Technology (BCIT).",
       "bio1": "After attending BCIT's info session in 2018 and doing extensive research in the computing programs, I have decided to enroll in the Software Systems Developer Program to deepen my knowledge of web technologies and advance my learning experience.  It is an intensive, hands-on program that allows students to gain the foundations of ever evolving technologies and web and mobile applications.",
       "contactmessage": "",
       "website": "http://www.fatmabadri.github.io",
@@ -19,10 +19,10 @@
           "className": "fa fa-linkedin"
         },
         {
-            "name": "twitter",
-            "url": "http://twitter.com",
-            "className": "fa fa-twitter"
-        }  
+          "name": "twitter",
+          "url": "https://twitter.com/",
+          "className": "fa fa-twitter"
+        } 
       ]
     },
 
@@ -106,14 +106,27 @@
       "projectmessage": "",
       "projects": [
         {
+          "title":"Checkmarks",
+          "category":"Full Stack Project",
+          "image":"checkmarks.jpg",
+          "url":"https://wishlist.netlify.app/"
+        },
+        {
+          "title":"WishList",
+          "category":"Full Stack Project",
+          "image":"wishlist.jpg",
+          "url":"https://wishlist.netlify.app/"
+        },
+        {
           "title":"React Movie App",
           "category":"React Project",
-          "image":"react-movie-app.jpg"
+          "image":"react-movie-app.jpg",
+          "url":"https://ssdreactmovie.netlify.app/"
         },
         {
           "title":"WalkaBooks",
-          "category":"Front-End HTML Project",
-          "image":"walkabooks.jpg",
+          "category":"Front End Project",
+          "image":"coming-soon.jpg",
           "url":""
         },
         {
